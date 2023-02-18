@@ -1,5 +1,5 @@
 {
-    "name": "qpay-api-core",
+    "name": "express-api-core",
     "version": "1.0.0",
     "description": "web api core",
     "main": "index.js",
